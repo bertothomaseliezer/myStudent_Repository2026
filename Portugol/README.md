@@ -1,4 +1,0 @@
-# Portugol/git
-
-Exercícios
-
